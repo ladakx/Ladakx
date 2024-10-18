@@ -1,1 +1,1 @@
-[![EmSockz's github stats](https://github-readme-stats.vercel.app/api?username=EmSockz&locale=ru&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&icon_color=fff)](https://github.com/EmSockz)
+[![Ladakx's github stats](https://github-readme-stats.vercel.app/api?username=Ladakx&locale=ru&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&icon_color=fff)](https://github.com/ladakx)
